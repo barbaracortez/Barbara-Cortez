@@ -8,7 +8,7 @@
 - 🐾 Side project: una app en React para **rescatar y adoptar animales**, con geolocalización y paneles de seguimiento.
 - 💼 Abierta a **freelance/colaboraciones** en frontend y automatización liviana con Power Platform.
 - 🌱 Aprendiendo: **Testing (Jest/RTL)**, **TypeScript**, **Buenas prácticas de Git** y **CI/CD**.
-- 📍 Mendoza, AR · 📫 Contacto: <tu_email@ejemplo.com> · [LinkedIn](https://www.linkedin.com/in/b%C3%A1rbara-cortez-90bb67235/)
+- 📍 Mendoza, AR · 📫 Contacto: cortezbarbara.dev@gmail.com· [LinkedIn](https://www.linkedin.com/in/b%C3%A1rbara-cortez-90bb67235/)
 
 
 ## 🧰 Tech Stack
