@@ -19,6 +19,40 @@
 **Herramientas:** Git & GitHub · GitHub Actions · Power Platform / Dynamics 365 (CE)
 
 
+## 🧩 Portafolio por tecnología
+
+
+> Mi idea es que puedas recorrer **todos mis repositorios** por stack y ver rápido en qué trabajo.  
+> **Repositorio completo:** https://github.com/tu-usuario?tab=repositories
+
+
+### ✅ TypeScript
+
+
+- **Nombre del repo** – breve descripción de lo que resuelve.  
+  Demo: https://tu-demo.com · Código: https://github.com/tu-usuario/nombre-del-repo
+- **Nombre del repo** – breve descripción de lo que resuelve.  
+  Demo: https://tu-demo.com · Código: https://github.com/tu-usuario/nombre-del-repo
+
+
+### ✅ JavaScript
+
+
+- **Nombre del repo** – breve descripción de lo que resuelve.  
+  Demo: https://tu-demo.com · Código: https://github.com/tu-usuario/nombre-del-repo
+- **Nombre del repo** – breve descripción de lo que resuelve.  
+  Demo: https://tu-demo.com · Código: https://github.com/tu-usuario/nombre-del-repo
+
+
+### ✅ React
+
+
+- **Nombre del repo** – breve descripción de lo que resuelve.  
+  Demo: https://tu-demo.com · Código: https://github.com/tu-usuario/nombre-del-repo
+- **Nombre del repo** – breve descripción de lo que resuelve.  
+  Demo: https://tu-demo.com · Código: https://github.com/tu-usuario/nombre-del-repo
+
+
 ## 🔗 Proyectos Destacados
 
 
